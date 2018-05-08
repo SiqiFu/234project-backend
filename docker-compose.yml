@@ -1,7 +1,7 @@
 version: '3.3'
 services:
   backend:
-    image: lyw1024/234project-backend:latest
+    image: ZekiCi/234project-backend:latest
     ports:
       - "9999:8080"
   frontend:
