@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+  backend:
+    image: lyw1024/234project-backend:latest
+    ports:
+      - "9999:8080"
+  frontend:
+    image: dto80/project234-frontend:latest
+    ports:
+      - "9998:80"
