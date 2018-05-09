@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user enters the Products page, and clicked at the add to cart button, the button will be changed to already added, and the number of selected products is shown next to the Carts menu</description>
+   <name>TestH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>831bea38-da7f-4887-8fbd-625a5d83ef8d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99a25c64-bca4-4605-a279-39b52627bb06</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>520eb0a8-49c9-486c-b64a-c14500fdb71d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd508f88-44e1-457a-88b1-bf14357a76e5</id>
+      <masked>false</masked>
+      <name>product1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a60cb998-1008-44d2-9958-54d7f932a162</id>
+      <masked>false</masked>
+      <name>product2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>209b5034-71c5-4b38-9fad-335365af74f2</id>
+      <masked>false</masked>
+      <name>product3</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab800c91-6c6a-4f72-aa42-1f5671f75834</id>
+      <masked>false</masked>
+      <name>product4</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8822d78-392e-4528-9423-612016dd9c4c</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>
