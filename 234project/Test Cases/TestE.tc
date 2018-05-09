@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user empties the user name box, the warning message “Username is required” is shown</description>
+   <name>TestE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de0d84b1-900f-43bb-b5d9-7c19f22d3b0a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a775b801-e775-4ded-ba5f-2e5ba1a1b38b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5c4839a-511d-41bb-a8fa-7ec7076a0254</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
