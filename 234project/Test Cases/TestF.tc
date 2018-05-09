@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user empties the password box, the warning message “Password is required” is shown</description>
+   <name>TestF</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a03d92c7-ed53-4759-982b-ad419a9afe70</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9502510a-dd10-4c95-b2dd-21844238030b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>735cd1eb-6a11-4868-bb5c-9364c980f28b</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>
