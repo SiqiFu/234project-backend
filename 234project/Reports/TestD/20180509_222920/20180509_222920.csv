@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestD,Chrome 62.0.3202.94,,2018-05-09 22:29:27,2018-05-09 22:33:01,3m - 33.501s,FAILED
+,,,,,,
+Test Cases/TestD,Chrome 62.0.3202.94,"If the user name and password is not correct, the error message, \u201CUsername/password is incorrect\u201D is shown",2018-05-09 22:29:28,2018-05-09 22:30:40,1m - 12.263s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 22:29:28,2018-05-09 22:29:36,7.423s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 22:29:36,2018-05-09 22:29:45,9.170s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:29:45,2018-05-09 22:29:46,0.467s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:29:46,2018-05-09 22:29:46,0.467s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 22:29:46,2018-05-09 22:29:46,0.329s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-09 22:29:46,2018-05-09 22:29:47,1.187s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:29:47,2018-05-09 22:29:49,1.474s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 22:29:49,2018-05-09 22:30:29,39.533s,FAILED
+,,,,,,
+Test Cases/TestD,Chrome 62.0.3202.94,"If the user name and password is not correct, the error message, \u201CUsername/password is incorrect\u201D is shown",2018-05-09 22:30:40,2018-05-09 22:31:51,1m - 10.943s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 22:30:40,2018-05-09 22:30:51,10.482s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 22:30:51,2018-05-09 22:31:02,11.319s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:31:02,2018-05-09 22:31:02,0.285s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:31:02,2018-05-09 22:31:02,0.200s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 22:31:02,2018-05-09 22:31:03,0.126s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-09 22:31:03,2018-05-09 22:31:04,1.192s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:31:04,2018-05-09 22:31:04,0.153s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 22:31:04,2018-05-09 22:31:42,38.292s,FAILED
+,,,,,,
+Test Cases/TestD,Chrome 62.0.3202.94,"If the user name and password is not correct, the error message, \u201CUsername/password is incorrect\u201D is shown",2018-05-09 22:31:51,2018-05-09 22:33:00,1m - 8.471s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 22:31:51,2018-05-09 22:32:00,8.796s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 22:32:00,2018-05-09 22:32:08,7.938s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:32:08,2018-05-09 22:32:08,0.255s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:32:08,2018-05-09 22:32:08,0.219s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 22:32:08,2018-05-09 22:32:09,0.197s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-09 22:32:09,2018-05-09 22:32:10,1.180s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:32:10,2018-05-09 22:32:10,0.125s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 22:32:10,2018-05-09 22:32:49,39.028s,FAILED

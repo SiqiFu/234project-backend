@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestD" time="52" tests="3" failures="0" errors="0">
+   <testsuite name="TestD" tests="3" failures="0" errors="0" time="52" timestamp="2018-05-09 22:39:14" hostname="Administrator - USER-20170218VE" id="Test Suites/TestD">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestD\\20180509_223904"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestD\\20180509_223904\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - USER-20170218VE"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="192.168.0.103"/>
+         <property name="sessionId" value="160282a53f37f590c0453e54fbde15a4"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestD" classname="Test Cases/TestD" status="PASSED">
+         <system-out><![CDATA[2018-05-09 22:39:14 - [TEST_CASE][PASSED] - Test Cases/TestD: Test Cases/TestD
+
+2018-05-09 22:39:15 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-09 22:39:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-09 22:39:24 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-09 22:39:32 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-09 22:39:32 - [TEST_STEP][PASSED] - setText: Text 'userr' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:33 - [MESSAGE][PASSED] - Text 'userr' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:33 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:33 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:33 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:33 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:34 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:34 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:34 - [TEST_STEP][PASSED] - setText: Text '1234' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:35 - [MESSAGE][PASSED] - Text '1234' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:35 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:35 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:35 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-09 22:39:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestD" classname="Test Cases/TestD" status="PASSED">
+         <system-out><![CDATA[2018-05-09 22:39:36 - [TEST_CASE][PASSED] - Test Cases/TestD: Test Cases/TestD
+
+2018-05-09 22:39:36 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-09 22:39:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-09 22:39:41 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-09 22:39:48 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-09 22:39:48 - [TEST_STEP][PASSED] - setText: Text 'userr' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:48 - [MESSAGE][PASSED] - Text 'userr' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:48 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:48 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:49 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:49 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:50 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:50 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:39:50 - [TEST_STEP][PASSED] - setText: Text '1234' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:50 - [MESSAGE][PASSED] - Text '1234' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:39:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:50 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:39:50 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:39:50 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-09 22:39:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestD" classname="Test Cases/TestD" status="PASSED">
+         <system-out><![CDATA[2018-05-09 22:39:51 - [TEST_CASE][PASSED] - Test Cases/TestD: Test Cases/TestD
+
+2018-05-09 22:39:51 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-09 22:39:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-09 22:39:55 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-09 22:40:02 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-09 22:40:02 - [TEST_STEP][PASSED] - setText: Text 'userr' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:40:02 - [MESSAGE][PASSED] - Text 'userr' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:40:02 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:40:03 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:40:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:40:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:40:03 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:40:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:40:04 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:40:04 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_username'
+
+2018-05-09 22:40:04 - [TEST_STEP][PASSED] - setText: Text '1234' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:40:04 - [MESSAGE][PASSED] - Text '1234' is set on object 'Object Repository/ShowErrorMessageOfInputWrong/input_password'
+
+2018-05-09 22:40:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:40:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowErrorMessageOfInputWrong/button_Login' is clicked on
+
+2018-05-09 22:40:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:40:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowErrorMessageOfInputWrong/label_Usernamepassword is inco' are matched.
+
+2018-05-09 22:40:04 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-09 22:40:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-09 22:39:14 - [TEST_SUITE][PASSED] - TestD: Test Cases/TestD]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestD,Chrome 62.0.3202.94,,2018-05-09 21:57:52,2018-05-09 22:00:59,3m - 6.128s,FAILED
+,,,,,,
+Test Cases/TestD,Chrome 62.0.3202.94,"If the user name and password is not correct, the error message, \u201CUsername/password is incorrect\u201D is shown",2018-05-09 21:57:54,2018-05-09 21:59:18,1m - 24.230s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:57:54,2018-05-09 21:58:22,28.294s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:58:22,2018-05-09 21:58:44,21.289s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:58:44,2018-05-09 21:58:45,1.052s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:58:45,2018-05-09 21:58:45,0.375s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:58:45,2018-05-09 21:58:46,0.485s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-09 21:58:46,2018-05-09 21:59:18,32.244s,FAILED
+,,,,,,
+Test Cases/TestD,Chrome 62.0.3202.94,"If the user name and password is not correct, the error message, \u201CUsername/password is incorrect\u201D is shown",2018-05-09 21:59:18,2018-05-09 22:00:12,54.468s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:59:18,2018-05-09 21:59:32,14.068s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:59:32,2018-05-09 21:59:40,7.611s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:59:40,2018-05-09 21:59:40,0.183s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:59:40,2018-05-09 21:59:40,0.224s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:59:40,2018-05-09 21:59:40,0.498s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-09 21:59:40,2018-05-09 22:00:12,31.825s,FAILED
+,,,,,,
+Test Cases/TestD,Chrome 62.0.3202.94,"If the user name and password is not correct, the error message, \u201CUsername/password is incorrect\u201D is shown",2018-05-09 22:00:12,2018-05-09 22:00:57,45.122s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 22:00:12,2018-05-09 22:00:18,5.419s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 22:00:18,2018-05-09 22:00:25,7.287s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:00:25,2018-05-09 22:00:25,0.190s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 22:00:25,2018-05-09 22:00:25,0.150s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 22:00:25,2018-05-09 22:00:25,0.117s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-09 22:00:25,2018-05-09 22:00:57,31.941s,FAILED
