@@ -10,5 +10,5 @@ services:
       - "9998:80"
     volumes:
       - type: bind
-        source ./dockerpath
-        targe: /usr/share/nginx/html/assets
+        source: /home/ubuntu/dockerpath
+        target: /usr/share/nginx/html/assets
