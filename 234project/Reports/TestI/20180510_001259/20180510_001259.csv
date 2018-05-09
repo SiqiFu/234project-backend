@@ -1,0 +1,65 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestI,Chrome 62.0.3202.94,,2018-05-10 00:13:08,2018-05-10 00:14:40,1m - 31.386s,FAILED
+,,,,,,
+Test Cases/TestI,Chrome 62.0.3202.94,"After selecting the products, if the user moves to the Carts page, all the selected products is shown in the cart page. The user can change the amount of products for each type of product, and the total price will be changed regarding to the input value.If the user clicks confirm button, the transaction will be added.",2018-05-10 00:13:09,2018-05-10 00:13:56,46.789s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 00:13:09,2018-05-10 00:13:31,21.843s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 00:13:31,2018-05-10 00:13:43,11.950s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:13:43,2018-05-10 00:13:49,5.449s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:13:49,2018-05-10 00:13:49,0.217s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:49,2018-05-10 00:13:49,0.429s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:49,2018-05-10 00:13:52,2.248s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:52,2018-05-10 00:13:52,0.135s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:52,2018-05-10 00:13:52,0.162s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:52,2018-05-10 00:13:52,0.135s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:52,2018-05-10 00:13:52,0.116s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:52,2018-05-10 00:13:52,0.183s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:13:52,2018-05-10 00:13:53,0.629s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:13:53,2018-05-10 00:13:53,0.267s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:13:53,2018-05-10 00:13:53,0.107s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:13:53,2018-05-10 00:13:54,0.476s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:13:54,2018-05-10 00:13:54,0.386s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:13:54,2018-05-10 00:13:55,0.512s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:13:55,2018-05-10 00:13:55,0.269s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:13:55,2018-05-10 00:13:56,0.709s,FAILED
+,,,,,,
+Test Cases/TestI,Chrome 62.0.3202.94,"After selecting the products, if the user moves to the Carts page, all the selected products is shown in the cart page. The user can change the amount of products for each type of product, and the total price will be changed regarding to the input value.If the user clicks confirm button, the transaction will be added.",2018-05-10 00:13:56,2018-05-10 00:14:18,22.270s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 00:13:56,2018-05-10 00:14:07,11.243s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 00:14:07,2018-05-10 00:14:15,7.361s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:14:15,2018-05-10 00:14:15,0.246s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:14:15,2018-05-10 00:14:15,0.207s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:15,2018-05-10 00:14:15,0.153s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:15,2018-05-10 00:14:17,1.771s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:17,2018-05-10 00:14:17,0.133s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:17,2018-05-10 00:14:17,0.124s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:17,2018-05-10 00:14:17,0.080s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:17,2018-05-10 00:14:17,0.088s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:17,2018-05-10 00:14:18,0.139s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.063s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.050s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.059s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.049s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.051s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.122s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.171s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:18,0.010s,FAILED
+,,,,,,
+Test Cases/TestI,Chrome 62.0.3202.94,"After selecting the products, if the user moves to the Carts page, all the selected products is shown in the cart page. The user can change the amount of products for each type of product, and the total price will be changed regarding to the input value.If the user clicks confirm button, the transaction will be added.",2018-05-10 00:14:18,2018-05-10 00:14:38,19.791s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 00:14:18,2018-05-10 00:14:28,10.262s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 00:14:28,2018-05-10 00:14:35,6.602s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:14:35,2018-05-10 00:14:35,0.219s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:14:35,2018-05-10 00:14:35,0.165s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:35,2018-05-10 00:14:36,0.127s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:36,2018-05-10 00:14:37,1.197s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:37,0.098s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:37,0.109s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:37,0.089s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:37,0.129s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:37,0.154s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:37,0.064s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:37,0.064s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:37,2018-05-10 00:14:38,0.065s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:38,2018-05-10 00:14:38,0.065s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:38,2018-05-10 00:14:38,0.055s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 00:14:38,2018-05-10 00:14:38,0.159s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 00:14:38,2018-05-10 00:14:38,0.119s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 00:14:38,2018-05-10 00:14:38,0.010s,FAILED

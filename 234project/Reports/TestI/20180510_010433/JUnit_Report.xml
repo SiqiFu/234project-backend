@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestI" time="87" tests="0" failures="3" errors="0">
+   <testsuite name="TestI" tests="0" failures="3" errors="0" time="87" timestamp="2018-05-10 01:04:35" hostname="Administrator - USER-20170218VE" id="Test Suites/TestI">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\execution0.log"/>
+         <property name="attachments" value="F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889108406.png, F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889109604.png, F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889140900.png, F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889141314.png, F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889160046.png, F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889160523.png"/>
+         <property name="hostName" value="Administrator - USER-20170218VE"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="192.168.0.103"/>
+         <property name="sessionId" value="d30b966532c2ae659feca2feef4a1ce8"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestI" classname="Test Cases/TestI" status="FAILED">
+         <failure type="FAILED" message="Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)"/>
+         <system-out><![CDATA[2018-05-10 01:04:35 - [TEST_CASE][FAILED] - Test Cases/TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+
+2018-05-10 01:04:36 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 01:04:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 01:04:42 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 01:04:59 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 01:04:59 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_username'
+
+2018-05-10 01:05:00 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_username'
+
+2018-05-10 01:05:00 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_password'
+
+2018-05-10 01:05:00 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_password'
+
+2018-05-10 01:05:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_Login' is clicked on
+
+2018-05-10 01:05:00 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_Login' is clicked on
+
+2018-05-10 01:05:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/a_Carts            5' is clicked on
+
+2018-05-10 01:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/a_Carts            5' is clicked on
+
+2018-05-10 01:05:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Garden' are matched.
+
+2018-05-10 01:05:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Garden' are matched.
+
+2018-05-10 01:05:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Banana' are matched.
+
+2018-05-10 01:05:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Banana' are matched.
+
+2018-05-10 01:05:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Orange' are matched.
+
+2018-05-10 01:05:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Orange' are matched.
+
+2018-05-10 01:05:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Papaya' are matched.
+
+2018-05-10 01:05:04 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Papaya' are matched.
+
+2018-05-10 01:05:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Rambutan' are matched.
+
+2018-05-10 01:05:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Rambutan' are matched.
+
+2018-05-10 01:05:05 - [TEST_STEP][PASSED] - setText: Text '2' is set on object 'Object Repository/ChangeAmountAndConfirm/input_amount'
+
+2018-05-10 01:05:05 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ChangeAmountAndConfirm/input_amount'
+
+2018-05-10 01:05:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_confirm' is clicked on
+
+2018-05-10 01:05:06 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_confirm' is clicked on
+
+2018-05-10 01:05:06 - [TEST_STEP][PASSED] - acceptAlert: Alert accepted
+
+2018-05-10 01:05:07 - [MESSAGE][PASSED] - Alert accepted
+
+2018-05-10 01:05:07 - [TEST_STEP][FAILED] - verifyElementText: Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+
+2018-05-10 01:05:09 - [MESSAGE][FAILED] - Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889108406.png]]
+
+2018-05-10 01:05:10 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889109604.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 01:04:35 - [TEST_CASE][FAILED] - Test Cases/TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestI" classname="Test Cases/TestI" status="FAILED">
+         <failure type="FAILED" message="Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)"/>
+         <system-out><![CDATA[2018-05-10 01:05:10 - [TEST_CASE][FAILED] - Test Cases/TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+
+2018-05-10 01:05:11 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 01:05:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-05-10 01:05:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 01:05:29 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 01:05:36 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 01:05:36 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_username'
+
+2018-05-10 01:05:36 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_username'
+
+2018-05-10 01:05:36 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_password'
+
+2018-05-10 01:05:36 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_password'
+
+2018-05-10 01:05:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_Login' is clicked on
+
+2018-05-10 01:05:37 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_Login' is clicked on
+
+2018-05-10 01:05:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/a_Carts            5' is clicked on
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/a_Carts            5' is clicked on
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Garden' are matched.
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Garden' are matched.
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Banana' are matched.
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Banana' are matched.
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Orange' are matched.
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Orange' are matched.
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Papaya' are matched.
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Papaya' are matched.
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Rambutan' are matched.
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Rambutan' are matched.
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - setText: Text '2' is set on object 'Object Repository/ChangeAmountAndConfirm/input_amount'
+
+2018-05-10 01:05:39 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ChangeAmountAndConfirm/input_amount'
+
+2018-05-10 01:05:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_confirm' is clicked on
+
+2018-05-10 01:05:40 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_confirm' is clicked on
+
+2018-05-10 01:05:40 - [TEST_STEP][PASSED] - acceptAlert: Alert accepted
+
+2018-05-10 01:05:40 - [MESSAGE][PASSED] - Alert accepted
+
+2018-05-10 01:05:40 - [TEST_STEP][FAILED] - verifyElementText: Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+
+2018-05-10 01:05:41 - [MESSAGE][FAILED] - Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889140900.png]]
+
+2018-05-10 01:05:41 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889141314.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 01:05:10 - [TEST_CASE][FAILED] - Test Cases/TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestI" classname="Test Cases/TestI" status="FAILED">
+         <failure type="FAILED" message="Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)"/>
+         <system-out><![CDATA[2018-05-10 01:05:41 - [TEST_CASE][FAILED] - Test Cases/TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+
+2018-05-10 01:05:41 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 01:05:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-05-10 01:05:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 01:05:49 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 01:05:55 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 01:05:55 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_username'
+
+2018-05-10 01:05:56 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_username'
+
+2018-05-10 01:05:56 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_password'
+
+2018-05-10 01:05:56 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ChangeAmountAndConfirm/input_password'
+
+2018-05-10 01:05:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_Login' is clicked on
+
+2018-05-10 01:05:56 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_Login' is clicked on
+
+2018-05-10 01:05:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:57 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_add to cart' is clicked on
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/a_Carts            5' is clicked on
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/a_Carts            5' is clicked on
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Garden' are matched.
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Garden' are matched.
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Banana' are matched.
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Banana' are matched.
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Orange' are matched.
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Orange' are matched.
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Papaya' are matched.
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Papaya' are matched.
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Rambutan' are matched.
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ChangeAmountAndConfirm/td_Rambutan' are matched.
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - setText: Text '2' is set on object 'Object Repository/ChangeAmountAndConfirm/input_amount'
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/ChangeAmountAndConfirm/input_amount'
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ChangeAmountAndConfirm/button_confirm' is clicked on
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Object: 'Object Repository/ChangeAmountAndConfirm/button_confirm' is clicked on
+
+2018-05-10 01:05:58 - [TEST_STEP][PASSED] - acceptAlert: Alert accepted
+
+2018-05-10 01:05:58 - [MESSAGE][PASSED] - Alert accepted
+
+2018-05-10 01:05:58 - [TEST_STEP][FAILED] - verifyElementText: Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+
+2018-05-10 01:06:00 - [MESSAGE][FAILED] - Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889160046.png]]
+
+2018-05-10 01:06:00 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestI\\20180510_010433\\1525889160523.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 01:05:41 - [TEST_CASE][FAILED] - Test Cases/TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 01:04:35 - [TEST_SUITE][FAILED] - TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)]]></system-out>
+      <system-err><![CDATA[2018-05-10 01:04:35 - [TEST_SUITE][FAILED] - TestI: Test Cases/TestI FAILED because (of) Verify element text of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' FAILED. (Root cause: Actual text 'Well done! You successfully added the transaction.' and expected text ' Well done! You successfully added the transaction.' of test object 'Object Repository/ChangeAmountAndConfirm/div_Well done You successfully' are NOT matched.)]]></system-err>
+   </testsuite>
+</testsuites>

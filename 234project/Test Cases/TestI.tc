@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After selecting the products, if the user moves to the Carts page, all the selected products is shown in the cart page. The user can change the amount of products for each type of product, and the total price will be changed regarding to the input value.If the user clicks confirm button, the transaction will be added.</description>
+   <name>TestI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>458fe0e2-cf68-46ce-8b19-e1a329c65ebe</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba0da52b-874e-4798-891e-fece8a431f63</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>088279bb-574d-4990-b8ed-e05e570cdb99</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d28e2db2-5a0e-4f24-8488-b4879c1b2e16</id>
+      <masked>false</masked>
+      <name>product1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd5efe87-f1a3-4604-bce9-8618e52dee09</id>
+      <masked>false</masked>
+      <name>product2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1bec98c4-d80b-40b2-84f4-25d80c8a5a8a</id>
+      <masked>false</masked>
+      <name>product3</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ca97f38-35ad-4710-8662-aa89dff49b5a</id>
+      <masked>false</masked>
+      <name>product4</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cd74ce8d-b7af-413e-a8e7-5d10a3a43e74</id>
+      <masked>false</masked>
+      <name>product5</name>
+   </variable>
+</TestCaseEntity>
