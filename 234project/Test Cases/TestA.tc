@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>When the user opens the web site, the system will bring the user to the login page</description>
+   <name>TestA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2536b318-3444-4341-9da7-27ea690b5621</testCaseGuid>
+</TestCaseEntity>
