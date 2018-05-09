@@ -12,7 +12,7 @@ install:
 - ls -l
 - docker build --build-arg JAR_FILE=/target/backend.jar -t 592115520/234project-backend  .
 - docker push 592115520/234project-backend
-- docker pull dto80/project234-frontend:latest
+- docker pull dto80/project234-frontend
 cache:
   directories:
   - "$HOME/.m2"
