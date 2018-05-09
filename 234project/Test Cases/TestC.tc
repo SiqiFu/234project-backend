@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user is user role, the system will go to the user page which consists of “Products” and “Carts” menus</description>
+   <name>TestC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0365ef9-52fa-4fba-ab93-33f0178aa53d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>788a4177-2b49-481d-a8de-6eb4a9f71f5f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b42cfb0-1014-4345-ad62-9874ef347cc7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

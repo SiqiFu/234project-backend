@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestC,Chrome 62.0.3202.94,,2018-05-09 21:31:38,2018-05-09 21:32:33,55.269s,PASSED
+,,,,,,
+Test Cases/TestC,Chrome 62.0.3202.94,"If the user is user role, the system will go to the user page which consists of \u201CProducts\u201D and \u201CCarts\u201D menus",2018-05-09 21:31:38,2018-05-09 21:32:01,23.003s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:31:39,2018-05-09 21:31:48,9.619s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:31:48,2018-05-09 21:31:57,9.023s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:31:57,2018-05-09 21:31:58,0.668s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:31:58,2018-05-09 21:31:58,0.226s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:31:58,2018-05-09 21:31:58,0.352s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:31:58,2018-05-09 21:32:00,1.505s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:32:00,2018-05-09 21:32:00,0.066s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-09 21:32:00,2018-05-09 21:32:01,1.081s,PASSED
+,,,,,,
+Test Cases/TestC,Chrome 62.0.3202.94,"If the user is user role, the system will go to the user page which consists of \u201CProducts\u201D and \u201CCarts\u201D menus",2018-05-09 21:32:01,2018-05-09 21:32:19,18.074s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:32:01,2018-05-09 21:32:05,4.019s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:32:05,2018-05-09 21:32:16,10.962s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:32:16,2018-05-09 21:32:16,0.215s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:32:16,2018-05-09 21:32:16,0.162s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:32:16,2018-05-09 21:32:17,0.117s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:32:17,2018-05-09 21:32:18,1.400s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:32:18,2018-05-09 21:32:18,0.077s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-09 21:32:18,2018-05-09 21:32:19,1.053s,PASSED
+,,,,,,
+Test Cases/TestC,Chrome 62.0.3202.94,"If the user is user role, the system will go to the user page which consists of \u201CProducts\u201D and \u201CCarts\u201D menus",2018-05-09 21:32:19,2018-05-09 21:32:33,13.669s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:32:19,2018-05-09 21:32:23,4.134s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:32:23,2018-05-09 21:32:30,6.333s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:32:30,2018-05-09 21:32:30,0.221s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:32:30,2018-05-09 21:32:30,0.184s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:32:30,2018-05-09 21:32:30,0.135s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:32:30,2018-05-09 21:32:32,1.409s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:32:32,2018-05-09 21:32:32,0.057s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-09 21:32:32,2018-05-09 21:32:33,1.178s,PASSED
