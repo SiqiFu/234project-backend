@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,Chrome 62.0.3202.94,,2018-05-09 21:05:41,2018-05-09 21:06:55,1m - 14.504s,PASSED
+,,,,,,
+Test Cases/TestB,Chrome 62.0.3202.94,"If the user is admin role, the system will go to the admin page which consists of \u201CProducts\u201D, and \u201CTotal Transaction\u201D menus",2018-05-09 21:05:41,2018-05-09 21:06:18,36.984s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:05:42,2018-05-09 21:06:03,21.297s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:06:03,2018-05-09 21:06:12,9.005s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:06:12,2018-05-09 21:06:13,1.210s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:06:13,2018-05-09 21:06:14,0.435s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:06:14,2018-05-09 21:06:16,2.093s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:06:16,2018-05-09 21:06:17,0.960s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:06:17,2018-05-09 21:06:17,0.082s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-09 21:06:17,2018-05-09 21:06:18,1.417s,PASSED
+,,,,,,
+Test Cases/TestB,Chrome 62.0.3202.94,"If the user is admin role, the system will go to the admin page which consists of \u201CProducts\u201D, and \u201CTotal Transaction\u201D menus",2018-05-09 21:06:18,2018-05-09 21:06:39,21.169s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:06:18,2018-05-09 21:06:23,4.359s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:06:23,2018-05-09 21:06:34,11.502s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:06:34,2018-05-09 21:06:34,0.303s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:06:34,2018-05-09 21:06:35,0.345s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:06:35,2018-05-09 21:06:35,0.170s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:06:35,2018-05-09 21:06:36,1.210s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:06:36,2018-05-09 21:06:38,2.197s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-09 21:06:38,2018-05-09 21:06:39,1.013s,PASSED
+,,,,,,
+Test Cases/TestB,Chrome 62.0.3202.94,"If the user is admin role, the system will go to the admin page which consists of \u201CProducts\u201D, and \u201CTotal Transaction\u201D menus",2018-05-09 21:06:39,2018-05-09 21:06:55,15.747s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-09 21:06:39,2018-05-09 21:06:42,3.188s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-09 21:06:42,2018-05-09 21:06:51,8.730s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:06:51,2018-05-09 21:06:52,0.608s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-09 21:06:52,2018-05-09 21:06:52,0.491s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-09 21:06:52,2018-05-09 21:06:53,0.241s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:06:53,2018-05-09 21:06:54,1.159s,PASSED
+verifyElementClickable,Chrome 62.0.3202.94,,2018-05-09 21:06:54,2018-05-09 21:06:54,0.069s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-09 21:06:54,2018-05-09 21:06:55,1.222s,PASSED

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+New Test Suite,,,2018-05-09 20:56:58,2018-05-09 20:57:02,3.369s,FAILED
+,,,,,,
+Test Cases/TestB,,"If the user is admin role, the system will go to the admin page which consists of \u201CProducts\u201D, and \u201CTotal Transaction\u201D menus",2018-05-09 20:56:59,2018-05-09 20:57:01,1.899s,FAILED
+openBrowser,,,2018-05-09 20:57:00,2018-05-09 20:57:01,1.471s,FAILED
+,,,,,,
+Test Cases/TestB,,"If the user is admin role, the system will go to the admin page which consists of \u201CProducts\u201D, and \u201CTotal Transaction\u201D menus",2018-05-09 20:57:01,2018-05-09 20:57:01,0.089s,FAILED
+openBrowser,,,2018-05-09 20:57:01,2018-05-09 20:57:01,0.033s,FAILED
+,,,,,,
+Test Cases/TestB,,"If the user is admin role, the system will go to the admin page which consists of \u201CProducts\u201D, and \u201CTotal Transaction\u201D menus",2018-05-09 20:57:01,2018-05-09 20:57:02,0.109s,FAILED
+openBrowser,,,2018-05-09 20:57:01,2018-05-09 20:57:01,0.016s,FAILED

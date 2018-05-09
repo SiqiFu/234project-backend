@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user is admin role, the system will go to the admin page which consists of “Products”, and “Total Transaction” menus</description>
+   <name>TestB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f13480df-0d58-4c36-8be7-e6418426974f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d274b13-b915-4c62-95b8-6d572e83db57</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f5b49861-8e60-49ba-aaa1-2f6fb1e6999d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
