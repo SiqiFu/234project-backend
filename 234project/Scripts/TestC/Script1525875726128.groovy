@@ -24,9 +24,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.245.190.238:9998/')
 
-WebUI.setText(findTestObject('ShowUserPage/input_username'), 'user')
+WebUI.setText(findTestObject('ShowUserPage/input_username'), username)
 
-WebUI.setText(findTestObject('ShowUserPage/input_password'), 'user')
+WebUI.setText(findTestObject('ShowUserPage/input_password'), password)
 
 WebUI.click(findTestObject('ShowUserPage/button_Login'))
 

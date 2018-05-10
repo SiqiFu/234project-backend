@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestC" time="27" tests="1" failures="0" errors="0">
+   <testsuite name="TestC" tests="1" failures="0" errors="0" time="27" timestamp="2018-05-10 11:22:13" hostname="Administrator - 10.80.109.39" id="Test Suites/TestC">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestC\\20180510_112211"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestC\\20180510_112211\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - 10.80.109.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="10.80.109.39"/>
+         <property name="sessionId" value="6d0aceca477fd2dc50d834a6059caa76"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestC" classname="Test Cases/TestC" status="PASSED">
+         <system-out><![CDATA[2018-05-10 11:22:13 - [TEST_CASE][PASSED] - Test Cases/TestC: Test Cases/TestC
+
+2018-05-10 11:22:14 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:22:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:22:22 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:22:37 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:22:37 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowUserPage/input_username'
+
+2018-05-10 11:22:37 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowUserPage/input_username'
+
+2018-05-10 11:22:37 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowUserPage/input_password'
+
+2018-05-10 11:22:37 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowUserPage/input_password'
+
+2018-05-10 11:22:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowUserPage/button_Login' is clicked on
+
+2018-05-10 11:22:38 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowUserPage/button_Login' is clicked on
+
+2018-05-10 11:22:38 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/ShowUserPage/a_Products' is clickable
+
+2018-05-10 11:22:39 - [MESSAGE][PASSED] - Object 'Object Repository/ShowUserPage/a_Products' is clickable
+
+2018-05-10 11:22:39 - [TEST_STEP][PASSED] - verifyElementClickable: Object 'Object Repository/ShowUserPage/a_Carts' is clickable
+
+2018-05-10 11:22:39 - [MESSAGE][PASSED] - Object 'Object Repository/ShowUserPage/a_Carts' is clickable
+
+2018-05-10 11:22:39 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 11:22:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 11:22:13 - [TEST_SUITE][PASSED] - TestC: Test Cases/TestC]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
