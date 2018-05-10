@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user is admin role, the system will go to the admin page which consists of
+“Products”, and “Total Transaction” menus</description>
+   <name>Test1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e10d0fda-61a3-4b8c-b27f-0af76860e034</testCaseGuid>
+</TestCaseEntity>
