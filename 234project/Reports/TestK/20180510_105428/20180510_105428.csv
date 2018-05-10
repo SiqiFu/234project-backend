@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestK,Chrome 62.0.3202.94,,2018-05-10 10:54:30,2018-05-10 10:54:50,19.817s,PASSED
+,,,,,,
+Test Cases/TestK,Chrome 62.0.3202.94,"If the user login to the admin page, when open the \u201CTotal Transaction\u201D menu, all the carts, which have been added must be shown with the summaries of all carts.",2018-05-10 10:54:31,2018-05-10 10:54:50,19.043s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 10:54:32,2018-05-10 10:54:37,5.178s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 10:54:37,2018-05-10 10:54:46,8.815s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 10:54:46,2018-05-10 10:54:46,0.312s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 10:54:46,2018-05-10 10:54:46,0.191s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 10:54:46,2018-05-10 10:54:46,0.168s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 10:54:46,2018-05-10 10:54:48,1.507s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 10:54:48,2018-05-10 10:54:49,0.772s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 10:54:49,2018-05-10 10:54:49,0.113s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 10:54:49,2018-05-10 10:54:49,0.077s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 10:54:49,2018-05-10 10:54:49,0.073s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-10 10:54:49,2018-05-10 10:54:50,1.046s,PASSED

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If the user login to the admin page, when open the “Total Transaction” menu, all the carts, which have been added must be shown with the summaries of all carts.</description>
+   <name>TestK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62ae6b66-f963-4abe-a6a9-8361618508f9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b10ff01-832f-4187-a888-371d95bf55fc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91bff8f8-99b8-4c8a-b996-9b998714b9f6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
