@@ -24,7 +24,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.245.190.238:9998/')
 
-WebUI.setText(findTestObject('EmptyOfUsername/input_password'), 'user')
+WebUI.setText(findTestObject('EmptyOfUsername/input_password'), password)
 
 WebUI.click(findTestObject('EmptyOfUsername/button_Login'))
 
