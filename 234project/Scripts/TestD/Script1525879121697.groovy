@@ -24,15 +24,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.245.190.238:9998/')
 
-WebUI.setText(findTestObject('ShowErrorMessageOfInputWrong/input_username'), 'userr')
+WebUI.setText(findTestObject('ShowErrorMessageOfInputWrong/input_username'), 'user1')
 
-WebUI.setText(findTestObject('ShowErrorMessageOfInputWrong/input_password'), 'user')
+WebUI.setText(findTestObject('ShowErrorMessageOfInputWrong/input_password'), password)
 
 WebUI.click(findTestObject('ShowErrorMessageOfInputWrong/button_Login'))
 
 WebUI.verifyElementText(findTestObject('ShowErrorMessageOfInputWrong/label_Usernamepassword is inco'), 'Username/password is incorrect')
 
-WebUI.setText(findTestObject('ShowErrorMessageOfInputWrong/input_username'), 'user')
+WebUI.setText(findTestObject('ShowErrorMessageOfInputWrong/input_username'), username)
 
 WebUI.setText(findTestObject('ShowErrorMessageOfInputWrong/input_password'), '1234')
 
