@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestF,Chrome 62.0.3202.94,,2018-05-10 11:37:20,2018-05-10 11:38:11,51.072s,PASSED
+,,,,,,
+Test Cases/TestF,Chrome 62.0.3202.94,"If the user empties the password box, the warning message \u201CPassword is required\u201D is shown",2018-05-10 11:37:21,2018-05-10 11:37:39,18.347s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:37:21,2018-05-10 11:37:26,4.962s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:37:26,2018-05-10 11:37:37,11.057s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:37:37,2018-05-10 11:37:38,0.311s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:37:38,2018-05-10 11:37:38,0.144s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:37:38,2018-05-10 11:37:38,0.126s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-10 11:37:38,2018-05-10 11:37:39,1.232s,PASSED
+,,,,,,
+Test Cases/TestF,Chrome 62.0.3202.94,"If the user empties the password box, the warning message \u201CPassword is required\u201D is shown",2018-05-10 11:37:39,2018-05-10 11:37:55,16.165s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:37:39,2018-05-10 11:37:43,3.859s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:37:43,2018-05-10 11:37:54,10.652s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:37:54,2018-05-10 11:37:54,0.251s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:37:54,2018-05-10 11:37:54,0.138s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:37:54,2018-05-10 11:37:54,0.108s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-10 11:37:54,2018-05-10 11:37:55,1.046s,PASSED
+,,,,,,
+Test Cases/TestF,Chrome 62.0.3202.94,"If the user empties the password box, the warning message \u201CPassword is required\u201D is shown",2018-05-10 11:37:55,2018-05-10 11:38:11,16.031s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:37:55,2018-05-10 11:37:59,3.631s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:37:59,2018-05-10 11:38:10,10.861s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:38:10,2018-05-10 11:38:10,0.266s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:38:10,2018-05-10 11:38:10,0.123s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:38:10,2018-05-10 11:38:10,0.074s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-10 11:38:10,2018-05-10 11:38:11,1.041s,PASSED

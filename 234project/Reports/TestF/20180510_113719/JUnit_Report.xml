@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestF" time="51" tests="3" failures="0" errors="0">
+   <testsuite name="TestF" tests="3" failures="0" errors="0" time="51" timestamp="2018-05-10 11:37:20" hostname="Administrator - 10.80.109.39" id="Test Suites/TestF">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestF\\20180510_113719"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestF\\20180510_113719\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - 10.80.109.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="10.80.109.39"/>
+         <property name="sessionId" value="d902be4a9e1537a69a9aaae294cdd206"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestF" classname="Test Cases/TestF" status="PASSED">
+         <system-out><![CDATA[2018-05-10 11:37:21 - [TEST_CASE][PASSED] - Test Cases/TestF: Test Cases/TestF
+
+2018-05-10 11:37:21 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:37:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:37:26 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:37:37 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:37:37 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/EmptyOfPassword/input_username'
+
+2018-05-10 11:37:38 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/EmptyOfPassword/input_username'
+
+2018-05-10 11:37:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/EmptyOfPassword/button_Login' is clicked on
+
+2018-05-10 11:37:38 - [MESSAGE][PASSED] - Object: 'Object Repository/EmptyOfPassword/button_Login' is clicked on
+
+2018-05-10 11:37:38 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/EmptyOfPassword/label_Password is required' are matched.
+
+2018-05-10 11:37:38 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/EmptyOfPassword/label_Password is required' are matched.
+
+2018-05-10 11:37:38 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 11:37:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestF" classname="Test Cases/TestF" status="PASSED">
+         <system-out><![CDATA[2018-05-10 11:37:39 - [TEST_CASE][PASSED] - Test Cases/TestF: Test Cases/TestF
+
+2018-05-10 11:37:39 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:37:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:37:43 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:37:54 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:37:54 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/EmptyOfPassword/input_username'
+
+2018-05-10 11:37:54 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/EmptyOfPassword/input_username'
+
+2018-05-10 11:37:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/EmptyOfPassword/button_Login' is clicked on
+
+2018-05-10 11:37:54 - [MESSAGE][PASSED] - Object: 'Object Repository/EmptyOfPassword/button_Login' is clicked on
+
+2018-05-10 11:37:54 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/EmptyOfPassword/label_Password is required' are matched.
+
+2018-05-10 11:37:54 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/EmptyOfPassword/label_Password is required' are matched.
+
+2018-05-10 11:37:54 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 11:37:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestF" classname="Test Cases/TestF" status="PASSED">
+         <system-out><![CDATA[2018-05-10 11:37:55 - [TEST_CASE][PASSED] - Test Cases/TestF: Test Cases/TestF
+
+2018-05-10 11:37:55 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:37:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:37:59 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:38:10 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:38:10 - [TEST_STEP][PASSED] - setText: Text 'hello' is set on object 'Object Repository/EmptyOfPassword/input_username'
+
+2018-05-10 11:38:10 - [MESSAGE][PASSED] - Text 'hello' is set on object 'Object Repository/EmptyOfPassword/input_username'
+
+2018-05-10 11:38:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/EmptyOfPassword/button_Login' is clicked on
+
+2018-05-10 11:38:10 - [MESSAGE][PASSED] - Object: 'Object Repository/EmptyOfPassword/button_Login' is clicked on
+
+2018-05-10 11:38:10 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/EmptyOfPassword/label_Password is required' are matched.
+
+2018-05-10 11:38:10 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/EmptyOfPassword/label_Password is required' are matched.
+
+2018-05-10 11:38:10 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 11:38:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 11:37:20 - [TEST_SUITE][PASSED] - TestF: Test Cases/TestF]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
