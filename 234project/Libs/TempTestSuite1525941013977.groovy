@@ -15,9 +15,9 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 Map<String, String> suiteProperties = new HashMap<String, String>();
 
 
-suiteProperties.put('id', 'Test Suites/TestH')
+suiteProperties.put('id', 'Test Suites/TestK')
 
-suiteProperties.put('name', 'TestH')
+suiteProperties.put('name', 'TestK')
 
 suiteProperties.put('description', '')
  
@@ -27,8 +27,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.m
 
 
 
-RunConfiguration.setExecutionSettingFile("F:\\234project-backend\\234project\\Reports\\TestH\\20180510_120600\\execution.properties")
+RunConfiguration.setExecutionSettingFile("F:\\234project-backend\\234project\\Reports\\TestK\\20180510_153011\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/TestH', suiteProperties, [new TestCaseBinding('Test Cases/TestH', 'Test Cases/TestH',  [ 'product1' : 'Garden' , 'product3' : 'Orange' , 'product2' : 'Banana' , 'product5' : 'Rambutan' , 'product4' : 'Papaya' , 'password' : 'admin' , 'username' : 'admin' ,  ])])
+TestCaseMain.startTestSuite('Test Suites/TestK', suiteProperties, [new TestCaseBinding('Test Cases/TestK', 'Test Cases/TestK',  [ 'password' : 'admin' , 'username' : 'admin' ,  ])])
