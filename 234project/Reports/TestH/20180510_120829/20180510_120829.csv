@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestH,Chrome 62.0.3202.94,,2018-05-10 12:08:31,2018-05-10 12:08:53,22.206s,PASSED
+,,,,,,
+Test Cases/TestH,Chrome 62.0.3202.94,"When the user enters the Products page, and clicked at the add to cart button, the button will be changed to already added, and the number of selected products is shown next to the Carts menu",2018-05-10 12:08:32,2018-05-10 12:08:53,21.229s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 12:08:33,2018-05-10 12:08:37,4.018s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 12:08:37,2018-05-10 12:08:47,9.889s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 12:08:47,2018-05-10 12:08:47,0.395s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 12:08:47,2018-05-10 12:08:47,0.185s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 12:08:47,2018-05-10 12:08:47,0.153s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 12:08:47,2018-05-10 12:08:49,1.880s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:49,2018-05-10 12:08:49,0.187s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 12:08:49,2018-05-10 12:08:50,0.252s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:50,2018-05-10 12:08:50,0.073s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 12:08:50,2018-05-10 12:08:50,0.226s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:50,2018-05-10 12:08:50,0.074s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 12:08:50,2018-05-10 12:08:50,0.187s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:50,2018-05-10 12:08:50,0.117s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 12:08:50,2018-05-10 12:08:51,0.266s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:51,0.069s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:51,0.314s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:51,0.131s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:51,0.148s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:51,0.100s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:51,0.098s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:51,0.108s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-10 12:08:51,2018-05-10 12:08:53,1.331s,PASSED

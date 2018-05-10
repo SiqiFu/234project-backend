@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestH" time="38" tests="2" failures="0" errors="0">
+   <testsuite name="TestH" tests="2" failures="0" errors="0" time="38" timestamp="2018-05-10 12:09:47" hostname="Administrator - 10.80.109.39" id="Test Suites/TestH">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestH\\20180510_120945"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestH\\20180510_120945\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - 10.80.109.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="10.80.109.39"/>
+         <property name="sessionId" value="07e44179a9674373a557d0c8d0e2883a"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestH" classname="Test Cases/TestH" status="PASSED">
+         <system-out><![CDATA[2018-05-10 12:09:47 - [TEST_CASE][PASSED] - Test Cases/TestH: Test Cases/TestH
+
+2018-05-10 12:09:48 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 12:09:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 12:09:54 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 12:10:02 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 12:10:02 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/AddToCarts/input_username'
+
+2018-05-10 12:10:03 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/AddToCarts/input_username'
+
+2018-05-10 12:10:03 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/AddToCarts/input_password'
+
+2018-05-10 12:10:03 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/AddToCarts/input_password'
+
+2018-05-10 12:10:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_Login' is clicked on
+
+2018-05-10 12:10:03 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_Login' is clicked on
+
+2018-05-10 12:10:03 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:04 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:04 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:05 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/a_Carts            5' is clicked on
+
+2018-05-10 12:10:06 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/a_Carts            5' is clicked on
+
+2018-05-10 12:10:06 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Garden' are matched.
+
+2018-05-10 12:10:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Garden' are matched.
+
+2018-05-10 12:10:06 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Banana' are matched.
+
+2018-05-10 12:10:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Banana' are matched.
+
+2018-05-10 12:10:06 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Orange' are matched.
+
+2018-05-10 12:10:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Orange' are matched.
+
+2018-05-10 12:10:06 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Papaya' are matched.
+
+2018-05-10 12:10:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Papaya' are matched.
+
+2018-05-10 12:10:06 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Rambutan' are matched.
+
+2018-05-10 12:10:06 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Rambutan' are matched.
+
+2018-05-10 12:10:06 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 12:10:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestH" classname="Test Cases/TestH" status="PASSED">
+         <system-out><![CDATA[2018-05-10 12:10:08 - [TEST_CASE][PASSED] - Test Cases/TestH: Test Cases/TestH
+
+2018-05-10 12:10:08 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 12:10:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 12:10:13 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 12:10:20 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 12:10:20 - [TEST_STEP][PASSED] - setText: Text 'hello' is set on object 'Object Repository/AddToCarts/input_username'
+
+2018-05-10 12:10:20 - [MESSAGE][PASSED] - Text 'hello' is set on object 'Object Repository/AddToCarts/input_username'
+
+2018-05-10 12:10:20 - [TEST_STEP][PASSED] - setText: Text 'hello' is set on object 'Object Repository/AddToCarts/input_password'
+
+2018-05-10 12:10:20 - [MESSAGE][PASSED] - Text 'hello' is set on object 'Object Repository/AddToCarts/input_password'
+
+2018-05-10 12:10:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_Login' is clicked on
+
+2018-05-10 12:10:20 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_Login' is clicked on
+
+2018-05-10 12:10:20 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:22 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:22 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:22 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:22 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:22 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:22 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:22 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/a_Carts            5' is clicked on
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/a_Carts            5' is clicked on
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Garden' are matched.
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Garden' are matched.
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Banana' are matched.
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Banana' are matched.
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Orange' are matched.
+
+2018-05-10 12:10:23 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Orange' are matched.
+
+2018-05-10 12:10:23 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Papaya' are matched.
+
+2018-05-10 12:10:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Papaya' are matched.
+
+2018-05-10 12:10:24 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/td_Rambutan' are matched.
+
+2018-05-10 12:10:24 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/td_Rambutan' are matched.
+
+2018-05-10 12:10:24 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 12:10:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 12:09:47 - [TEST_SUITE][PASSED] - TestH: Test Cases/TestH]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

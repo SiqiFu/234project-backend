@@ -24,9 +24,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.245.190.238:9998/')
 
-WebUI.setText(findTestObject('AddToCarts/input_username'), 'user')
+WebUI.setText(findTestObject('AddToCarts/input_username'), username)
 
-WebUI.setText(findTestObject('AddToCarts/input_password'), 'user')
+WebUI.setText(findTestObject('AddToCarts/input_password'), password)
 
 WebUI.click(findTestObject('AddToCarts/button_Login'))
 
@@ -52,15 +52,15 @@ WebUI.verifyElementText(findTestObject('AddToCarts/div_already added'), 'already
 
 WebUI.click(findTestObject('AddToCarts/a_Carts            5'))
 
-WebUI.verifyElementText(findTestObject('AddToCarts/td_Garden'), 'Garden')
+WebUI.verifyElementText(findTestObject('AddToCarts/td_Garden'), product1)
 
-WebUI.verifyElementText(findTestObject('AddToCarts/td_Banana'), 'Banana')
+WebUI.verifyElementText(findTestObject('AddToCarts/td_Banana'), product2)
 
-WebUI.verifyElementText(findTestObject('AddToCarts/td_Orange'), 'Orange')
+WebUI.verifyElementText(findTestObject('AddToCarts/td_Orange'), product3)
 
-WebUI.verifyElementText(findTestObject('AddToCarts/td_Papaya'), 'Papaya')
+WebUI.verifyElementText(findTestObject('AddToCarts/td_Papaya'), product4)
 
-WebUI.verifyElementText(findTestObject('AddToCarts/td_Rambutan'), 'Rambutan')
+WebUI.verifyElementText(findTestObject('AddToCarts/td_Rambutan'), product5)
 
 WebUI.closeBrowser()
 

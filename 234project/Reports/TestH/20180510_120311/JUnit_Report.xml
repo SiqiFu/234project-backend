@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestH" time="54" tests="0" failures="1" errors="0">
+   <testsuite name="TestH" tests="0" failures="1" errors="0" time="54" timestamp="2018-05-10 12:03:13" hostname="Administrator - 10.80.109.39" id="Test Suites/TestH">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestH\\20180510_120311"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestH\\20180510_120311\\execution0.log"/>
+         <property name="attachments" value="F:\\234project-backend\\234project\\Reports\\TestH\\20180510_120311\\1525928646061.png"/>
+         <property name="hostName" value="Administrator - 10.80.109.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="10.80.109.39"/>
+         <property name="sessionId" value="d33dc29f6ab891451316776474070291"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestH" classname="Test Cases/TestH" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/AddToCarts/a_Carts            5' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AddToCarts/a_Carts            5' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            5
+          ' or . = 'Carts
+            5
+          ')]' not found)"/>
+         <system-out><![CDATA[2018-05-10 12:03:14 - [TEST_CASE][FAILED] - Test Cases/TestH: Test Cases/TestH FAILED because (of) Unable to click on object 'Object Repository/AddToCarts/a_Carts            5' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AddToCarts/a_Carts            5' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            5
+          ' or . = 'Carts
+            5
+          ')]' not found)
+
+2018-05-10 12:03:14 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 12:03:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 12:03:22 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 12:03:30 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 12:03:30 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/AddToCarts/input_username'
+
+2018-05-10 12:03:31 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/AddToCarts/input_username'
+
+2018-05-10 12:03:31 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/AddToCarts/input_password'
+
+2018-05-10 12:03:31 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/AddToCarts/input_password'
+
+2018-05-10 12:03:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_Login' is clicked on
+
+2018-05-10 12:03:31 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_Login' is clicked on
+
+2018-05-10 12:03:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:32 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:32 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:33 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:33 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:34 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:34 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:34 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:34 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:34 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:34 - [MESSAGE][PASSED] - Object: 'Object Repository/AddToCarts/button_add to cart' is clicked on
+
+2018-05-10 12:03:34 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddToCarts/div_already added' are matched.
+
+2018-05-10 12:03:34 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/AddToCarts/a_Carts            5' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AddToCarts/a_Carts            5' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            5
+          ' or . = 'Carts
+            5
+          ')]' not found)
+
+2018-05-10 12:04:06 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/AddToCarts/a_Carts            5' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AddToCarts/a_Carts            5' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            5
+          ' or . = 'Carts
+            5
+          ')]' not found)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestH\\20180510_120311\\1525928646061.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 12:03:14 - [TEST_CASE][FAILED] - Test Cases/TestH: Test Cases/TestH FAILED because (of) Unable to click on object 'Object Repository/AddToCarts/a_Carts            5' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AddToCarts/a_Carts            5' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            5
+          ' or . = 'Carts
+            5
+          ')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 12:03:13 - [TEST_SUITE][FAILED] - TestH: Test Cases/TestH FAILED because (of) Unable to click on object 'Object Repository/AddToCarts/a_Carts            5' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AddToCarts/a_Carts            5' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            5
+          ' or . = 'Carts
+            5
+          ')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-05-10 12:03:13 - [TEST_SUITE][FAILED] - TestH: Test Cases/TestH FAILED because (of) Unable to click on object 'Object Repository/AddToCarts/a_Carts            5' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AddToCarts/a_Carts            5' located by 'By.xpath: //a[@href = '/cart' and (text() = 'Carts
+            5
+          ' or . = 'Carts
+            5
+          ')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>
