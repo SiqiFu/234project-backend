@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestG" time="23" tests="1" failures="0" errors="0">
+   <testsuite name="TestG" tests="1" failures="0" errors="0" time="23" timestamp="2018-05-10 11:53:50" hostname="Administrator - 10.80.109.39" id="Test Suites/TestG">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestG\\20180510_115348"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestG\\20180510_115348\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Administrator - 10.80.109.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="10.80.109.39"/>
+         <property name="sessionId" value="627fa0c9448a25f85b5878b6b894ce9c"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestG" classname="Test Cases/TestG" status="PASSED">
+         <system-out><![CDATA[2018-05-10 11:53:51 - [TEST_CASE][PASSED] - Test Cases/TestG: Test Cases/TestG
+
+2018-05-10 11:53:52 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:53:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:53:58 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:54:09 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:54:09 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:54:10 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:54:10 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:54:10 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:54:10 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:54:10 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:54:10 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are matched.
+
+2018-05-10 11:54:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are matched.
+
+2018-05-10 11:54:11 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are matched.
+
+2018-05-10 11:54:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are matched.
+
+2018-05-10 11:54:11 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Orange' are matched.
+
+2018-05-10 11:54:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Orange' are matched.
+
+2018-05-10 11:54:12 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Papaya' are matched.
+
+2018-05-10 11:54:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Papaya' are matched.
+
+2018-05-10 11:54:12 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Rambutan' are matched.
+
+2018-05-10 11:54:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Rambutan' are matched.
+
+2018-05-10 11:54:12 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-10 11:54:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 11:53:50 - [TEST_SUITE][PASSED] - TestG: Test Cases/TestG]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

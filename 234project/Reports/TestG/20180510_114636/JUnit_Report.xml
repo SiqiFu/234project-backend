@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestG" time="54" tests="0" failures="3" errors="0">
+   <testsuite name="TestG" tests="0" failures="3" errors="0" time="54" timestamp="2018-05-10 11:46:38" hostname="Administrator - 10.80.109.39" id="Test Suites/TestG">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\execution0.log"/>
+         <property name="attachments" value="F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927617521.png, F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927617895.png, F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927635198.png, F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927635652.png, F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927651410.png, F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927651801.png"/>
+         <property name="hostName" value="Administrator - 10.80.109.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="10.80.109.39"/>
+         <property name="sessionId" value="93ae8ec8ed42c8eaf36612887c4313ba"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestG" classname="Test Cases/TestG" status="FAILED">
+         <failure type="FAILED" message="Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' FAILED. (Root cause: Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.)"/>
+         <system-out><![CDATA[2018-05-10 11:46:39 - [TEST_CASE][FAILED] - Test Cases/TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' FAILED. (Root cause: Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.)
+
+2018-05-10 11:46:40 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:46:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:46:44 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:46:54 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:46:54 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:46:54 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:46:54 - [TEST_STEP][PASSED] - setText: Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:46:55 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:46:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:46:55 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:46:55 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are matched.
+
+2018-05-10 11:46:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are matched.
+
+2018-05-10 11:46:56 - [TEST_STEP][FAILED] - verifyElementText: Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' FAILED. (Root cause: Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.)
+
+2018-05-10 11:46:57 - [MESSAGE][FAILED] - Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927617521.png]]
+
+2018-05-10 11:46:58 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' FAILED. (Root cause: Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927617895.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 11:46:39 - [TEST_CASE][FAILED] - Test Cases/TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' FAILED. (Root cause: Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestG" classname="Test Cases/TestG" status="FAILED">
+         <failure type="FAILED" message="Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Banana' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)"/>
+         <system-out><![CDATA[2018-05-10 11:46:58 - [TEST_CASE][FAILED] - Test Cases/TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Banana' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)
+
+2018-05-10 11:46:58 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:46:58 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-05-10 11:47:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:47:05 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:47:12 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:47:12 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:47:13 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:47:13 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:47:13 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:47:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:47:13 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:47:13 - [TEST_STEP][FAILED] - verifyElementText: Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Banana' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)
+
+2018-05-10 11:47:15 - [MESSAGE][FAILED] - Actual text 'Garden' and expected text 'Banana' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927635198.png]]
+
+2018-05-10 11:47:15 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Banana' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927635652.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 11:46:58 - [TEST_CASE][FAILED] - Test Cases/TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Banana' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestG" classname="Test Cases/TestG" status="FAILED">
+         <failure type="FAILED" message="Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Orange' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)"/>
+         <system-out><![CDATA[2018-05-10 11:47:15 - [TEST_CASE][FAILED] - Test Cases/TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Orange' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)
+
+2018-05-10 11:47:15 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:47:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-05-10 11:47:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:47:21 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:47:29 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:47:29 - [TEST_STEP][PASSED] - setText: Text 'hello' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:47:29 - [MESSAGE][PASSED] - Text 'hello' is set on object 'Object Repository/ShowAvailableProduct/input_username'
+
+2018-05-10 11:47:29 - [TEST_STEP][PASSED] - setText: Text 'hello' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:47:30 - [MESSAGE][PASSED] - Text 'hello' is set on object 'Object Repository/ShowAvailableProduct/input_password'
+
+2018-05-10 11:47:30 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:47:30 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowAvailableProduct/button_Login' is clicked on
+
+2018-05-10 11:47:30 - [TEST_STEP][FAILED] - verifyElementText: Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Orange' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)
+
+2018-05-10 11:47:31 - [MESSAGE][FAILED] - Actual text 'Garden' and expected text 'Orange' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927651410.png]]
+
+2018-05-10 11:47:32 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Orange' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestG\\20180510_114636\\1525927651801.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 11:47:15 - [TEST_CASE][FAILED] - Test Cases/TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Garden' FAILED. (Root cause: Actual text 'Garden' and expected text 'Orange' of test object 'Object Repository/ShowAvailableProduct/h5_Garden' are NOT matched.)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 11:46:38 - [TEST_SUITE][FAILED] - TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' FAILED. (Root cause: Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.)]]></system-out>
+      <system-err><![CDATA[2018-05-10 11:46:38 - [TEST_SUITE][FAILED] - TestG: Test Cases/TestG FAILED because (of) Verify element text of test object 'Object Repository/ShowAvailableProduct/h5_Banana' FAILED. (Root cause: Actual text 'Banana' and expected text 'Garden' of test object 'Object Repository/ShowAvailableProduct/h5_Banana' are NOT matched.)]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestG,Chrome 62.0.3202.94,,2018-05-10 11:53:50,2018-05-10 11:54:13,23.143s,PASSED
+,,,,,,
+Test Cases/TestG,Chrome 62.0.3202.94,"When the user is in the Products page, all the available products are shown in the web page",2018-05-10 11:53:51,2018-05-10 11:54:13,22.100s,PASSED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:53:52,2018-05-10 11:53:58,6.404s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:53:58,2018-05-10 11:54:09,10.876s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:54:09,2018-05-10 11:54:10,0.319s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:54:10,2018-05-10 11:54:10,0.219s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:54:10,2018-05-10 11:54:10,0.185s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:54:10,2018-05-10 11:54:11,1.260s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:54:11,2018-05-10 11:54:11,0.083s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:54:11,2018-05-10 11:54:12,0.656s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:54:12,2018-05-10 11:54:12,0.092s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:54:12,2018-05-10 11:54:12,0.156s,PASSED
+closeBrowser,Chrome 62.0.3202.94,,2018-05-10 11:54:12,2018-05-10 11:54:13,1.078s,PASSED

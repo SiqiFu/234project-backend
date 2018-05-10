@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestG,Chrome 62.0.3202.94,,2018-05-10 11:46:38,2018-05-10 11:47:33,54.528s,FAILED
+,,,,,,
+Test Cases/TestG,Chrome 62.0.3202.94,"When the user is in the Products page, all the available products are shown in the web page",2018-05-10 11:46:39,2018-05-10 11:46:58,18.646s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:46:40,2018-05-10 11:46:44,4.041s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:46:44,2018-05-10 11:46:54,10.292s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:46:54,2018-05-10 11:46:54,0.409s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:46:54,2018-05-10 11:46:55,0.262s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:46:55,2018-05-10 11:46:55,0.174s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:46:55,2018-05-10 11:46:56,1.267s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:46:56,2018-05-10 11:46:58,1.495s,FAILED
+,,,,,,
+Test Cases/TestG,Chrome 62.0.3202.94,"When the user is in the Products page, all the available products are shown in the web page",2018-05-10 11:46:58,2018-05-10 11:47:15,17.736s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:46:58,2018-05-10 11:47:05,6.890s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:47:05,2018-05-10 11:47:12,7.836s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:47:12,2018-05-10 11:47:13,0.217s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:47:13,2018-05-10 11:47:13,0.208s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:47:13,2018-05-10 11:47:13,0.129s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:47:13,2018-05-10 11:47:15,2.440s,FAILED
+,,,,,,
+Test Cases/TestG,Chrome 62.0.3202.94,"When the user is in the Products page, all the available products are shown in the web page",2018-05-10 11:47:15,2018-05-10 11:47:32,16.129s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:47:15,2018-05-10 11:47:21,5.742s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:47:21,2018-05-10 11:47:29,7.913s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:47:29,2018-05-10 11:47:29,0.238s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:47:29,2018-05-10 11:47:30,0.233s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:47:30,2018-05-10 11:47:30,0.160s,PASSED
+verifyElementText,Chrome 62.0.3202.94,,2018-05-10 11:47:30,2018-05-10 11:47:32,1.829s,FAILED

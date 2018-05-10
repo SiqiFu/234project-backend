@@ -4,7 +4,7 @@
    <name>TestG</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-05-09T23:21:01</lastRun>
+   <lastRun>2018-05-10T11:53:48</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -29,8 +29,44 @@
          <combinationType>ONE</combinationType>
          <id>d330d543-5a0c-4bd1-bafb-46c93d722df8</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>44d9337b-1cf7-444f-bea3-d1639db39f5b</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4c7ed0c7-0674-49c2-9ba0-f561f50a0db8</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9b325bfd-7854-4c84-8887-99de6a90e23a</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ff9f15cb-5c14-4cce-b1ad-433256f580f5</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>5-5</value>
          </iterationEntity>
          <testDataId>Data Files/Product</testDataId>
       </testDataLink>
@@ -53,25 +89,25 @@
          <variableId>ea87f3aa-b3e4-4b7e-a086-666a5d98cd06</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>d330d543-5a0c-4bd1-bafb-46c93d722df8</testDataLinkId>
+         <testDataLinkId>44d9337b-1cf7-444f-bea3-d1639db39f5b</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>77a29e7d-e7cb-461d-a87f-d88690114066</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>d330d543-5a0c-4bd1-bafb-46c93d722df8</testDataLinkId>
+         <testDataLinkId>4c7ed0c7-0674-49c2-9ba0-f561f50a0db8</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>987dfbd8-5d03-43ad-bc82-673689e986da</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>d330d543-5a0c-4bd1-bafb-46c93d722df8</testDataLinkId>
+         <testDataLinkId>9b325bfd-7854-4c84-8887-99de6a90e23a</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>90e39ead-e890-47bb-8f9b-ef1dc7515c9c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>d330d543-5a0c-4bd1-bafb-46c93d722df8</testDataLinkId>
+         <testDataLinkId>ff9f15cb-5c14-4cce-b1ad-433256f580f5</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>31ca8379-5434-4714-8994-80edb6baac7b</variableId>

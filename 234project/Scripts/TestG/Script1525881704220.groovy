@@ -24,21 +24,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.245.190.238:9998/')
 
-WebUI.setText(findTestObject('ShowAvailableProduct/input_username'), 'user')
+WebUI.setText(findTestObject('ShowAvailableProduct/input_username'), username)
 
-WebUI.setText(findTestObject('ShowAvailableProduct/input_password'), 'user')
+WebUI.setText(findTestObject('ShowAvailableProduct/input_password'), password)
 
 WebUI.click(findTestObject('ShowAvailableProduct/button_Login'))
 
-WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Garden'), 'Garden')
+WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Garden'), product1)
 
-WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Banana'), 'Banana')
+WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Banana'), product2)
 
-WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Orange'), 'Orange')
+WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Orange'), product3)
 
-WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Papaya'), 'Papaya')
+WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Papaya'), product4)
 
-WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Rambutan'), 'Rambutan')
+WebUI.verifyElementText(findTestObject('ShowAvailableProduct/h5_Rambutan'), product5)
 
 WebUI.closeBrowser()
 
