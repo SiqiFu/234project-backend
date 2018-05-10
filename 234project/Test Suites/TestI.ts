@@ -4,7 +4,7 @@
    <name>TestI</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-05-10T01:09:56</lastRun>
+   <lastRun>2018-05-10T13:04:35</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -17,11 +17,11 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/TestI</testCaseId>
       <testDataLink>
-         <combinationType>ONE</combinationType>
+         <combinationType>MANY</combinationType>
          <id>3f4e8ece-09a9-4e2b-9477-e64e87e74520</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>RANGE</iterationType>
+            <value>2-3</value>
          </iterationEntity>
          <testDataId>Data Files/User</testDataId>
       </testDataLink>
@@ -29,8 +29,44 @@
          <combinationType>ONE</combinationType>
          <id>a5b64fa7-b961-4623-b8fc-fb6ace72e47a</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bd0df573-d0bd-433e-8f9b-fb55b9d775c0</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>2-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a3f91ddc-809e-42ef-bdd2-e269ca39c8ca</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>3-3</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>71aef797-b74b-4051-a876-0f9dd9895afd</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>4-4</value>
+         </iterationEntity>
+         <testDataId>Data Files/Product</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9501037f-de71-4b85-bc49-f94e0e908045</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>5-5</value>
          </iterationEntity>
          <testDataId>Data Files/Product</testDataId>
       </testDataLink>
@@ -53,25 +89,25 @@
          <variableId>d28e2db2-5a0e-4f24-8488-b4879c1b2e16</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a5b64fa7-b961-4623-b8fc-fb6ace72e47a</testDataLinkId>
+         <testDataLinkId>bd0df573-d0bd-433e-8f9b-fb55b9d775c0</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>fd5efe87-f1a3-4604-bce9-8618e52dee09</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a5b64fa7-b961-4623-b8fc-fb6ace72e47a</testDataLinkId>
+         <testDataLinkId>a3f91ddc-809e-42ef-bdd2-e269ca39c8ca</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>1bec98c4-d80b-40b2-84f4-25d80c8a5a8a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a5b64fa7-b961-4623-b8fc-fb6ace72e47a</testDataLinkId>
+         <testDataLinkId>71aef797-b74b-4051-a876-0f9dd9895afd</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>0ca97f38-35ad-4710-8662-aa89dff49b5a</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a5b64fa7-b961-4623-b8fc-fb6ace72e47a</testDataLinkId>
+         <testDataLinkId>9501037f-de71-4b85-bc49-f94e0e908045</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>name</value>
          <variableId>cd74ce8d-b7af-413e-a8e7-5d10a3a43e74</variableId>

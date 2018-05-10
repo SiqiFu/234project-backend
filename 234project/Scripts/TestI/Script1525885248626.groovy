@@ -24,9 +24,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.245.190.238:9998/')
 
-WebUI.setText(findTestObject('ChangeAmountAndConfirm/input_username'), 'user')
+WebUI.setText(findTestObject('ChangeAmountAndConfirm/input_username'), username)
 
-WebUI.setText(findTestObject('ChangeAmountAndConfirm/input_password'), 'user')
+WebUI.setText(findTestObject('ChangeAmountAndConfirm/input_password'), password)
 
 WebUI.click(findTestObject('ChangeAmountAndConfirm/button_Login'))
 
@@ -42,15 +42,15 @@ WebUI.click(findTestObject('ChangeAmountAndConfirm/button_add to cart'))
 
 WebUI.click(findTestObject('ChangeAmountAndConfirm/a_Carts            5'))
 
-WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Garden'), 'Garden')
+WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Garden'), product1)
 
-WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Banana'), 'Banana')
+WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Banana'), product2)
 
-WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Orange'), 'Orange')
+WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Orange'), product3)
 
-WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Papaya'), 'Papaya')
+WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Papaya'), product4)
 
-WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Rambutan'), 'Rambutan')
+WebUI.verifyElementText(findTestObject('ChangeAmountAndConfirm/td_Rambutan'), product5)
 
 WebUI.setText(findTestObject('ChangeAmountAndConfirm/input_amount'), '2')
 
