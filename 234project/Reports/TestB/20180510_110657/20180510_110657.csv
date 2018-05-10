@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestB,Chrome 62.0.3202.94,,2018-05-10 11:06:59,2018-05-10 11:07:50,51.346s,FAILED
+,,,,,,
+Test Cases/TestB,Chrome 62.0.3202.94,"If the user is admin role, the system will go to the admin page which consists of \u201CProducts\u201D, and \u201CTotal Transaction\u201D menus",2018-05-10 11:06:59,2018-05-10 11:07:49,49.782s,FAILED
+openBrowser,Chrome 62.0.3202.94,,2018-05-10 11:07:00,2018-05-10 11:07:06,5.579s,PASSED
+navigateToUrl,Chrome 62.0.3202.94,,2018-05-10 11:07:06,2018-05-10 11:07:15,9.113s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:07:15,2018-05-10 11:07:15,0.436s,PASSED
+setText,Chrome 62.0.3202.94,,2018-05-10 11:07:15,2018-05-10 11:07:15,0.251s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:07:15,2018-05-10 11:07:16,0.253s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:07:16,2018-05-10 11:07:17,1.340s,PASSED
+click,Chrome 62.0.3202.94,,2018-05-10 11:07:17,2018-05-10 11:07:49,32.284s,FAILED

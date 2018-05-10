@@ -4,7 +4,7 @@
    <name>TestB</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-05-09T21:05:38</lastRun>
+   <lastRun>2018-05-10T11:17:37</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -20,8 +20,8 @@
          <combinationType>ONE</combinationType>
          <id>cff67e2e-7fa4-4fea-b9c6-f1d6f66682b5</id>
          <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
          </iterationEntity>
          <testDataId>Data Files/User</testDataId>
       </testDataLink>

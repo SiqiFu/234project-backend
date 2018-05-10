@@ -24,15 +24,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.245.190.238:9998/')
 
-WebUI.setText(findTestObject('ShowAdminPage/input_username'), 'admin')
+WebUI.setText(findTestObject('ShowAdminPage/input_username'), username)
 
-WebUI.setText(findTestObject('ShowAdminPage/input_password'), 'admin')
+WebUI.setText(findTestObject('ShowAdminPage/input_password'), password)
 
 WebUI.click(findTestObject('ShowAdminPage/button_Login'))
 
-WebUI.verifyElementClickable(findTestObject('ShowAdminPage/a_Products'))
+WebUI.verifyElementClickable(findTestObject('ShowAdminPage/a_Products'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementClickable(findTestObject('ShowAdminPage/a_Total Transaction'))
+WebUI.verifyElementClickable(findTestObject('ShowAdminPage/a_Total Transaction'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.closeBrowser()
 

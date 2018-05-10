@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestB" time="51" tests="0" failures="1" errors="0">
+   <testsuite name="TestB" tests="0" failures="1" errors="0" time="51" timestamp="2018-05-10 11:06:59" hostname="Administrator - 10.80.109.39" id="Test Suites/TestB">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\234project-backend\\234project\\Reports\\TestB\\20180510_110657"/>
+         <property name="logFiles" value="F:\\234project-backend\\234project\\Reports\\TestB\\20180510_110657\\execution0.log"/>
+         <property name="attachments" value="F:\\234project-backend\\234project\\Reports\\TestB\\20180510_110657\\1525925269089.png"/>
+         <property name="hostName" value="Administrator - 10.80.109.39"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Chrome 62.0.3202.94"/>
+         <property name="hostAddress" value="10.80.109.39"/>
+         <property name="sessionId" value="0cb52d4cbb0735f31e92bb49805a9744"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestB" classname="Test Cases/TestB" status="FAILED">
+         <failure type="FAILED" message="Unable to click on object 'Object Repository/ShowAdminPage/a_Total Transaction' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ShowAdminPage/a_Total Transaction' located by 'By.xpath: //a[@href = '/total' and (text() = 'Total Transaction' or . = 'Total Transaction')]' not found)"/>
+         <system-out><![CDATA[2018-05-10 11:06:59 - [TEST_CASE][FAILED] - Test Cases/TestB: Test Cases/TestB FAILED because (of) Unable to click on object 'Object Repository/ShowAdminPage/a_Total Transaction' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ShowAdminPage/a_Total Transaction' located by 'By.xpath: //a[@href = '/total' and (text() = 'Total Transaction' or . = 'Total Transaction')]' not found)
+
+2018-05-10 11:07:00 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-10 11:07:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-10 11:07:06 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:07:15 - [MESSAGE][PASSED] - Navigate to 'http://54.245.190.238:9998/' successfully
+
+2018-05-10 11:07:15 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowAdminPage/input_username'
+
+2018-05-10 11:07:15 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowAdminPage/input_username'
+
+2018-05-10 11:07:15 - [TEST_STEP][PASSED] - setText: Text 'user' is set on object 'Object Repository/ShowAdminPage/input_password'
+
+2018-05-10 11:07:15 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/ShowAdminPage/input_password'
+
+2018-05-10 11:07:15 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowAdminPage/button_Login' is clicked on
+
+2018-05-10 11:07:16 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowAdminPage/button_Login' is clicked on
+
+2018-05-10 11:07:16 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/ShowAdminPage/a_Products' is clicked on
+
+2018-05-10 11:07:17 - [MESSAGE][PASSED] - Object: 'Object Repository/ShowAdminPage/a_Products' is clicked on
+
+2018-05-10 11:07:17 - [TEST_STEP][FAILED] - click: Unable to click on object 'Object Repository/ShowAdminPage/a_Total Transaction' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ShowAdminPage/a_Total Transaction' located by 'By.xpath: //a[@href = '/total' and (text() = 'Total Transaction' or . = 'Total Transaction')]' not found)
+
+2018-05-10 11:07:49 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/ShowAdminPage/a_Total Transaction' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ShowAdminPage/a_Total Transaction' located by 'By.xpath: //a[@href = '/total' and (text() = 'Total Transaction' or . = 'Total Transaction')]' not found)
+[[ATTACHMENT|F:\\234project-backend\\234project\\Reports\\TestB\\20180510_110657\\1525925269089.png]]]]></system-out>
+         <system-err><![CDATA[2018-05-10 11:06:59 - [TEST_CASE][FAILED] - Test Cases/TestB: Test Cases/TestB FAILED because (of) Unable to click on object 'Object Repository/ShowAdminPage/a_Total Transaction' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ShowAdminPage/a_Total Transaction' located by 'By.xpath: //a[@href = '/total' and (text() = 'Total Transaction' or . = 'Total Transaction')]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-10 11:06:59 - [TEST_SUITE][FAILED] - TestB: Test Cases/TestB FAILED because (of) Unable to click on object 'Object Repository/ShowAdminPage/a_Total Transaction' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ShowAdminPage/a_Total Transaction' located by 'By.xpath: //a[@href = '/total' and (text() = 'Total Transaction' or . = 'Total Transaction')]' not found)]]></system-out>
+      <system-err><![CDATA[2018-05-10 11:06:59 - [TEST_SUITE][FAILED] - TestB: Test Cases/TestB FAILED because (of) Unable to click on object 'Object Repository/ShowAdminPage/a_Total Transaction' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/ShowAdminPage/a_Total Transaction' located by 'By.xpath: //a[@href = '/total' and (text() = 'Total Transaction' or . = 'Total Transaction')]' not found)]]></system-err>
+   </testsuite>
+</testsuites>
